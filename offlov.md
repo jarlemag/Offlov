@@ -1,4 +1,4 @@
-Kapittel 1. Innleiande føresegner
+#Kapittel 1. Innleiande føresegner
 § 1.Formål
 Formålet med lova er å leggje til rette for at offentleg verksemd er open og gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga, rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal òg leggje til rette for vidarebruk av offentleg informasjon.
 
@@ -24,7 +24,7 @@ Lova gjeld for Svalbard dersom ikkje anna blir fastsett av Kongen.
 Føresegnene i § 6, § 7 andre ledd, § 8 tredje ledd andre punktum og fjerde og femte ledd og § 30 første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor.
 
 0	Endra med lover 28 apr 2017 nr. 22 (ikr. 28 apr 2017 iflg. res. 28 apr 2017 nr. 502), 9 des 2016 nr. 88 (ikr. 1 okt 2017 iflg. res. 9 juni 2017 nr. 718). Vert endra med lov 19 juni 2020 nr. 77 (ikr. 1 jan 2021 iflg. res. 19 juni 2020 nr. 1231).
-Kapittel 2. Hovudreglane om innsyn
+#Kapittel 2. Hovudreglane om innsyn
 § 3.Hovudregel
 Saksdokument, journalar og liknande register for organet er opne for innsyn dersom ikkje anna følgjer av lov eller forskrift med heimel i lov. Alle kan krevje innsyn i saksdokument, journalar og liknande register til organet hos vedkommande organ.
 
@@ -102,7 +102,10 @@ Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere
 a)	desse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,
 b)	det vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, eller
 c)	dei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet.
-Kapittel 3. Unntak frå innsynsretten
+
+
+#Kapittel 3. Unntak frå innsynsretten
+
 § 13.Opplysningar som er underlagde teieplikt
 Opplysningar som er underlagde teieplikt i lov eller i medhald av lov, er unnatekne frå innsyn.
 
@@ -248,10 +251,7 @@ Klaga skal førebuast og avgjerast utan ugrunna opphald. Elles gjeld reglane i fo
 
 Vedtaket til klageinstansen er særleg tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13 overfor kommunar og fylkeskommunar og rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d.
 
-
-
-
-Kapittel 5. Sluttføresegner
+#Kapittel 5. Sluttføresegner
 § 33.Iverksetjing og overgangsreglar
 Lova gjeld frå den tid Kongen fastset.?1 Frå same tid blir lov 19. juni 1970 nr. 69 om offentlighet i forvaltningen oppheva.
 
