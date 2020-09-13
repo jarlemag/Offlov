@@ -222,6 +222,8 @@ Innsynskravet må gjelde ei bestemt sak eller i rimeleg utstrekning saker av ein 
 § 29.Kva organ skal avgjere innsynskravet mv.
 Eit organ som mottek eit innsynskrav, skal vurdere kravet konkret og sjølvstendig. Kravet skal avgjerast utan ugrunna opphald.
 
+Dokument må ikkje påføyrast merkand om at det er unntatt eller skal unntas offentleghet etter lova her, med mindre det skal unntas etter §13. 
+
 Kongen kan i forskrift gi reglar om kva organ som på dei forskjellige saksområda skal ta avgjerd etter paragrafen her.
 
 § 30.Korleis organet skal gi innsyn og gjere dokument tilgjengelege
