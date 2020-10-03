@@ -91,12 +91,11 @@ Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i tred
 
 0	Endra med lov 28 apr 2017 nr. 22 (ikr. 28 apr 2017 iflg. res. 28 apr 2017 nr. 502).
 
-## § 9.Rett til å krevje innsyn i ei samanstilling frå databasar
+## § 9.Rett til å krevje innsyn i ei samanstilling av opplysningar
 
-Alle kan krevje innsyn i ei samanstilling av opplysningar som er elektronisk lagra i databasane til organet dersom samanstillinga kan gjerast med enkle framgangsmåtar.
+Alle kan krevje innsyn i ei samanstilling av opplysningar som organet har dersom samanstillinga kan gjerast med enkle framgangsmåtar.
 
 Retten til innsyn i samanstillinga, og organet si plikt til å utarbeide samanstillinga, gjeld sjølv om samanstillinga er delvis samanfatta av eller inneheld opplysninger fra dokument som ikkje er saksdokument for organet.
-
 
 
 ## § 10.Plikt til å føre journal. Tilgjengeleggjering av journalar og dokument på Internett
